@@ -1,6 +1,8 @@
 # Foul-Air-Pill
 A compact, portable gas detector for miscellaneous purposes. It monitors air for hazards such as CO₂ and natural gas and provides alerts when dangerous concentrations are detected.
+
 **#Parts List**
+
 **Compatible Sensors**
 The dual circular  Sensor space can be used by any standard circular sensor with a diameter equal or less than 0.75in some common examples are the MQ series.
 MQ-2; Combustible gases and smoke
