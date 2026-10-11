@@ -45,5 +45,9 @@ A compact, portable gas detector for miscellaneous purposes. It monitors air for
 	16x2 Character OLED; High-contrast text and characters
 	3-inch 128x64 OLED; Graphics, text, and icons
 	128x32 Graphic Display; Compact lines of custom text/data
+
+	
 **Power**
+
+
 	VILROS AA Battery Holder With Micro USB Connector
